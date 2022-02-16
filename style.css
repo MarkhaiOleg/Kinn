@@ -128,6 +128,13 @@ header a:hover{
     padding-top: 0;
 }
 
+/*
+.section-3 img{
+    width: 350px;
+    height: 400px;
+}
+*/
+
 /*SECTION4*/
 
 .section-4{
@@ -144,4 +151,26 @@ header a:hover{
 }
 .section-4 h2{
  font-size: 3.3rem;
+}
+
+/*SECTON5*/
+.section-5{
+    margin-top: 5rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 2%;
+    color: #56593D;
+    background-color: #FFFFEF;
+}
+.section-5 h3{
+    font-size: 2.5rem;
+}
+
+.section-5 p{
+    font-size: 1.3rem;
+}
+
+.section-5 h3,
+.section-5 img{
+ margin-bottom: 3rem;
 }
