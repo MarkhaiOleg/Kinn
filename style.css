@@ -62,3 +62,67 @@ header a:hover{
 .section-1 div button:hover{
     background-color: #d1d3b8;
 }
+
+/*SECTION2*/
+.section-2 {
+    margin-top: 5rem;
+}
+.section-2 h2{
+    font-size: 3rem;
+    color: #56593D;
+    margin: 3rem 0 3rem 0;
+}
+.section-2-link{
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+}
+
+.section-2 a{
+    font-size: 1.5rem;
+    color: #56593D;
+}
+
+.section-2 a:hover{
+    color: #d1d3b8;
+}
+
+.section-2 img{
+   width: 20px;
+   height: 20px; 
+}
+/*SECTION3*/
+
+.section-3{
+    margin-top: 5rem;
+    padding-bottom: 2rem;
+    background-color: #FFFFEF;
+}
+.section-3 h2{
+    font-size: 2rem;
+    color: #56593D;
+    margin: 5rem 0 5rem 0;
+}
+
+.section-3-card{
+    gap: 7rem;
+}
+.section-3 a{
+    padding-top: 2rem;
+    color: #56593D;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+.section-3 a:hover{
+    color: #d1d3b8;
+}
+
+.section-3 p{
+    padding-top: 2rem;
+    color: #56593D;
+    font-size: 1.5rem;
+}
+
+.section-3 p:last-child{
+    padding-top: 0;
+}
