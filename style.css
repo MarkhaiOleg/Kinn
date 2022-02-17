@@ -1,6 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body{
     font-family: 'Roboto', sans-serif;
-    font-size: 14px;
+    font-size: 2vh;
 }
 
 header{
@@ -27,15 +33,20 @@ header a:hover{
 /*SECTION1*/
 
 .section-1{
-    height: 700px;
-    margin-top: 4rem;
-    background: url(img/section-1-background.jpg) no-repeat;
-    border:1rem solid #FFFFEF;
+    min-height: 600px;
+    background: url(img/section-1-background.jpg) left no-repeat;
+    border: 1rem solid #FFFFEF;
+    background-size: cover;
 }
 
-.section-1 div{
-    margin-bottom: 5%;
+.section-1 .col {
+    padding: 1rem 2rem;
 }
+
+.bg-vanilla {
+    background-color: rgba(255, 255, 238, .5);
+}
+
 
 .section-1 div h3{
     font-size: 3rem;
@@ -65,17 +76,24 @@ header a:hover{
 }
 
 /*SECTION2*/
-.section-2 {
-    margin-top: 5rem;
-}
 .section-2 h2{
     font-size: 3rem;
     color: #56593D;
     margin: 3rem 0 3rem 0;
 }
-.section-2-link{
-    margin-right: 3rem;
-    margin-bottom: 3rem;
+
+.section-2 .col {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    text-align: center;
+}
+
+.section-2 .arrow-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .section-2 a{
