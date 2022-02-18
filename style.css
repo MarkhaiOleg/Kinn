@@ -215,3 +215,35 @@ header a:hover{
 .section-6 img{
  margin-bottom: 3rem;
 }
+
+/*SECTION-7*/
+.section-7{
+    margin-top: 5rem;
+    padding: 3rem 0 3rem 0;
+    color: #56593D;
+    background-color: #FFFFEF;
+}
+.section-7 h2{
+    font-size: 2.5rem;
+    margin: 0rem 0 2rem 0;
+}
+
+.section-7 p {
+    font-size: 1.2rem;
+    margin-bottom: 3rem;
+}
+
+.section-7 button{
+    width: 10%;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    background-color: #56593D;
+    color: #fff;
+    border: none;
+}
+
+.section-7 button:hover{
+    color: #000;
+    background-color: #fff;
+    cursor: pointer;
+}
