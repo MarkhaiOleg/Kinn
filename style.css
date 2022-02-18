@@ -259,3 +259,24 @@ header a:hover{
 .section-8 h2{
     margin: 2rem 0 2rem 0;
 }
+
+/*FOOTER*/
+footer{
+    color: #FFFFEF;
+    background-color: #717353;
+    padding: 2rem 0 2rem 0;
+}
+
+footer a{
+    color: #FFFFEF;
+    padding-bottom: 1rem;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: #d1d3b8;
+    cursor: pointer;
+}
+footer img{
+    padding-bottom: 1rem;
+}
