@@ -257,7 +257,16 @@ header a:hover{
 }
 
 .section-8 h2{
-    margin: 2rem 0 2rem 0;
+    padding: 2rem 0 2rem 0;
+}
+
+.section-8-title{
+    color: #56593D;
+    text-decoration: none;
+}
+
+.section-8-title:hover{
+    color: #d1d3b8;
 }
 
 /*FOOTER*/
