@@ -246,3 +246,16 @@ header a:hover{
     background-color: #fff;
     cursor: pointer;
 }
+
+/*SECTION8*/
+
+.section-8{
+    margin-top: 5rem;
+    padding: 3rem 0 5rem 0;
+    color: #56593D;
+    background-color: #FFFFEF;
+}
+
+.section-8 h2{
+    margin: 2rem 0 2rem 0;
+}
