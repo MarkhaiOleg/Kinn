@@ -192,3 +192,26 @@ header a:hover{
 .section-5 img{
  margin-bottom: 3rem;
 }
+
+/*SECTION6*/
+
+.section-6{
+    margin-top: 5rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 2%;
+    color: #56593D;
+    background-color: #FFFFEF;
+}
+.section-6 h3{
+    font-size: 2.5rem;
+}
+
+.section-6 p{
+    font-size: 1.3rem;
+}
+
+.section-6 h3,
+.section-6 img{
+ margin-bottom: 3rem;
+}
